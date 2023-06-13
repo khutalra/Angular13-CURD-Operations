@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruit",
+      "freshness": "new brand",
+      "price": 1221,
+      "comment": "sweetyyyyaaa",
+      "date": "2023-06-20T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "samsung",
+      "category": "Electronics",
+      "freshness": "new brand",
+      "price": 12345,
+      "comment": "asdfghjkl",
+      "date": "2023-06-29T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
